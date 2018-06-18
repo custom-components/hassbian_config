@@ -8,11 +8,5 @@ To get started put `/custom_components/hassbian_config.py` here:
 **Example configuration.yaml:**
 ```yaml
 hassbian_config:
-  hassbian_config: 
-```
-**Configuration variables:**  
-  
-key | description  
-:--- | :---  
   
 For more example see the [services.yaml](https://gitlab.com/custom_components/hassbian_config/blob/master/custom_components/hassbian_config/services.yaml) file.  
