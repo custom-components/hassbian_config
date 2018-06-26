@@ -11,3 +11,5 @@ hassbian_config:
 ```
   
 For more example see the [services.yaml](https://gitlab.com/custom_components/hassbian_config/blob/master/custom_components/hassbian_config/services.yaml) file.  
+  
+Due to how  are importerd, it is normal to see a  error on first boot after adding this, to resolve it, restart Home-Assistant.
