@@ -1,6 +1,7 @@
 # Custom_component for `hassbian-config`.
   
-![Version](https://img.shields.io/badge/version-1.0.1-green.svg?style=for-the-badge) ![mantained](https://img.shields.io/maintenance/yes/2018.svg?style=for-the-badge) A custom component which allows you to controll some hassbian-config functions from Home Assistant.
+![Version](https://img.shields.io/badge/version-1.0.1-green.svg?style=for-the-badge) ![mantained](https://img.shields.io/maintenance/yes/2018.svg?style=for-the-badge)   
+A custom component which allows you to controll some hassbian-config functions from Home Assistant.
   
 To get started put `/custom_components/hassbian_config.py`  
 here: `<config directory>/custom_components/hassbian_config.py`  
