@@ -11,8 +11,6 @@ here: `<config directory>/custom_components/hassbian_config.py`
 hassbian_config:
 ```
   
-[Discuss this on the home-assistant forum](null)
-  
 For more example see the [services.yaml](https://gitlab.com/custom_components/hassbian_config/blob/master/custom_components/hassbian_config/services.yaml) file.  
   
 ***
