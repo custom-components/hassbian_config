@@ -3,6 +3,7 @@ A component which allows you to controll some hassbian-config functions from Hom
 For more details about this component, please refer to the documentation at
 https://github.com/ludeeus/hassbian-config_custom_component
 """
+__version__ = '1.0.4'
 
 import subprocess
 import logging
