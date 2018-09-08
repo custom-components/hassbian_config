@@ -6,7 +6,7 @@ https://github.com/ludeeus/hassbian_config
 """
 import logging
 
-__version__ = '2.0.0'
+__version__ = '2.0.1'
 
 REQUIREMENTS = ['pyhassbian==0.0.3']
 
