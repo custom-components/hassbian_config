@@ -14,8 +14,9 @@ DOMAIN = 'hassbian_config'
 
 _LOGGER = logging.getLogger(__name__)
 
+
 def setup(hass, config):
-    """Setup the component."""
+    """Component the setup."""
     import pyhassbian
 
     def install_suite_service(call):
@@ -50,7 +51,6 @@ def setup(hass, config):
         _LOGGER.info('Upgrade of the base OS are starting.')
         pyhassbian.os_upgrade()
         _LOGGER.info('Upgrade of the base OS are done.')
-
 
     if pyhassbian.is_installed():
         _LOGGER.info('hassbian-config found, registering services.')
