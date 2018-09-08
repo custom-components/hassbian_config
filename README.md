@@ -1,4 +1,4 @@
-# Custom_component for `hassbian-config`
+# Custom_component for `hassbian-config` [![Build Status](https://travis-ci.com/custom-components/hassbian_config.svg?branch=master)](https://travis-ci.com/custom-components/hassbian_config)
 
 A custom component which allows you to controll some hassbian-config functions from Home Assistant.
   
